@@ -1,2 +1,2 @@
-# adblocking domains
-For use with AdGuard Home and Pi-Hole
+# Domains used for tracking and delivering ads
+For use with AdGuard Home, Pi-Hole and other ad blocking software.
