@@ -1,0 +1,55 @@
+# [google.com]
+ads.google.com
+adservice.google.com
+ampcid.google.com
+fundingchoices.google.com
+pagead.l.google.com
+pagead-googlehosted.l.google.com
+pagead-tpc.l.google.com
+partnerad.l.google.com
+s0-2mdn-net.l.google.com
+www-googletagmanager.l.google.com
+video-stats.video.google.com
+
+# [googleadservices.com]
+googleadservices.com
+4.afs.googleadservices.com
+pagead2.googleadservices.com
+partner.googleadservices.com
+www.googleadservices.com
+
+# [googleadservices.org]
+googleadservices.org
+
+# [googleadservices.ru]
+googleadservices.ru
+
+# [googleadsserving.cn]
+static.googleadsserving.cn
+
+# [googleapis.com]
+clientmetrics-pa.googleapis.com
+ad-creatives-public.commondatastorage.googleapis.com
+
+# [googleplex.com]
+badad.googleplex.com
+
+# [googlesyndication.com]
+ade.googlesyndication.com
+buttons.googlesyndication.com
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+tpcnc.googlesyndication.com
+video-ad-stats.googlesyndication.com
+
+# [googletagmanager.com]
+googletagmanager.com
+www.googletagmanager.com
+
+# [googletagservices.com]
+googletagservices.com
+www.googletagservices.com
+
+# [googleusercontent.com]
+affiliate.googleusercontent.com
+displayads-formats.googleusercontent.com
